@@ -1,0 +1,12 @@
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/bin/Debug/net8.0/Shared.Messaging.deps.json
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/bin/Debug/net8.0/Shared.Messaging.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/bin/Debug/net8.0/Shared.Messaging.pdb
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.csproj.AssemblyReference.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.AssemblyInfoInputs.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.AssemblyInfo.cs
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.csproj.CoreCompileInputs.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/refint/Shared.Messaging.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/Shared.Messaging.pdb
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Messaging/obj/Debug/net8.0/ref/Shared.Messaging.dll

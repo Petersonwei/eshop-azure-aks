@@ -1,0 +1,12 @@
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/bin/Debug/net8.0/Shared.Contracts.deps.json
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/bin/Debug/net8.0/Shared.Contracts.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/bin/Debug/net8.0/Shared.Contracts.pdb
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/Shared.Contracts.csproj.AssemblyReference.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/Shared.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/Shared.Contracts.AssemblyInfoInputs.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/Shared.Contracts.AssemblyInfo.cs
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/Shared.Contracts.csproj.CoreCompileInputs.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/Shared.Contracts.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/refint/Shared.Contracts.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/Shared.Contracts.pdb
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Shared/Shared.Contracts/obj/Debug/net8.0/ref/Shared.Contracts.dll

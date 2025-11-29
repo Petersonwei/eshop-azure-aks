@@ -1,0 +1,15 @@
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/bin/Debug/net8.0/Catalog.Contracts.deps.json
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/bin/Debug/net8.0/Catalog.Contracts.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/bin/Debug/net8.0/Catalog.Contracts.pdb
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/bin/Debug/net8.0/Shared.Contracts.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/bin/Debug/net8.0/Shared.Contracts.pdb
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog.Contracts.csproj.AssemblyReference.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog.Contracts.AssemblyInfoInputs.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog.Contracts.AssemblyInfo.cs
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog.Contracts.csproj.CoreCompileInputs.cache
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog..F7F2DA3A.Up2Date
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog.Contracts.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/refint/Catalog.Contracts.dll
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/Catalog.Contracts.pdb
+/Users/peterwei/Documents/Dev/Udemy/EshopModularMonoliths-Sections-main/section25/src/Modules/Catalog/Catalog.Contracts/obj/Debug/net8.0/ref/Catalog.Contracts.dll
